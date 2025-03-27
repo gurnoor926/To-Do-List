@@ -1,7 +1,7 @@
 # To-Do List Website
 
 ## Description
-A simple and efficient To-Do List web application designed to help users organize and manage tasks easily. It allows users to add, edit, and delete tasks while tracking their progress. The website features a responsive design, making it accessible on all devices.
+A simple and efficient To-Do List web application designed to help users organize and manage tasks easily. It allows users to add and delete tasks. The website features a responsive design, making it accessible on all devices.
 
 ## Features
 - Add and delete tasks
